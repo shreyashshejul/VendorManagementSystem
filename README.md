@@ -1,4 +1,5 @@
-# clear
+# Vendor Management System
+
 A Django-based Vendor Management System with RESTful API endpoints for managing vendors, purchase orders, and historical performance metrics.
 
 Table of Contents
