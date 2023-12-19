@@ -1,4 +1,4 @@
-# VendorManagementSystem
+# clear
 A Django-based Vendor Management System with RESTful API endpoints for managing vendors, purchase orders, and historical performance metrics.
 
 Table of Contents
@@ -75,4 +75,4 @@ GET /api/historical_performances/ - List all historical performance metrics.
 Testing
 To run the test suite, use the following command:
 
-python manage.py test vendor_app.tests
+python manage.py test vendorapp.tests
