@@ -22,7 +22,7 @@ Open a terminal and run the following command to install Django using pip:
 git clone https://github.com/shreyashshejul/vendormanagementsystem.git
 # 4) Navigate to the project directory:
 
-cd vendormanagementsystem
+cd vms
 # 5) Install the required dependencies:
 
 pip install -r requirements.txt
